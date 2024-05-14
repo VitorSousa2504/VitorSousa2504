@@ -16,4 +16,4 @@
 
 ### Contatos
 
-[img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Linkedin" (https://www.linkedin.com/in/vitorsous/)>]
+[img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>] (https://www.linkedin.com/in/vitorsous/)>]
