@@ -9,3 +9,7 @@
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorSousa2504&repo=eda-ebac)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSousa2504)](https://github.com/anuraghazra/github-readme-stats)
